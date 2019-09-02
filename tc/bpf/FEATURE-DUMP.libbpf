@@ -1,0 +1,4 @@
+feature-libelf=1
+feature-libelf-getphdrnum=1
+feature-libelf-mmap=1
+feature-bpf=1
